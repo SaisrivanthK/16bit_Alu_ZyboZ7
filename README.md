@@ -167,13 +167,6 @@ This project provides practical experience with:
 - Serial peripheral display control
 - Hierarchical RTL design and FPGA pin constraints
 
-## Future Improvements
-
-- Add a self-checking Verilog testbench for all 16 operations.
-- Include simulation waveforms and verification results.
-- Add photographs of the working hardware.
-- Improve error handling and display formatting.
-- Add automated regression testing and synthesis reports.
 
 ## Author
 
@@ -182,6 +175,7 @@ This project provides practical experience with:
 Electronics and Communication Engineering
 
 GitHub: [@SaisrivanthK](https://github.com/SaisrivanthK)
+LinkedIn: [@SaisrivanthK](www.linkedin.com/in/saisrivanth-k)
 
 ## License
 
